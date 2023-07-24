@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BMI計算</string>
+    <string name="tv_name">名前</string>
+    <string name="tv_height">身長</string>
+    <string name="tv_height_tani">cm</string>
+    <string name="tv_weight">体重</string>
+    <string name="tv_weight_tani">kg</string>
+    <string name="bt_calc">計算</string>
+</resources>
